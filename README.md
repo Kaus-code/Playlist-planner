@@ -7,7 +7,7 @@ EduSearch AI is an AI-powered educational search and planning platform. Search a
 
 # 👥 Contributors
 
-| ![Ayush's Avatar](https://avatars.githubusercontent.com/u/00000000?v=4) | ![Kaustubh's Avatar]([[https://avatars.githubusercontent.com/u/00000000?v=4])
+| ![Ayush's Avatar](https://avatars.githubusercontent.com/u/00000000?v=4) | ![Kaustubh's Avatar](https://avatars.githubusercontent.com/u/00000000?v=4)
 (https://getavataaars.com/?accessoriesType=Blank&avatarStyle=Transparent&clotheColor=Black&clotheType=Hoodie&eyeType=Wink&facialHairType=Blank&hairColor=Black&mouthType=Default&skinColor=Light&topType=ShortHairDreads01)](https://avatars.githubusercontent.com/u/00000000?v=4)) |
 |--------------------------------|--------------------------------|
 | **Ayush** — Turns coffee ☕ into brilliant code and wild ideas 💡 | **Kaustubh** — Crafts pixels 🎨 & logic 🧠 into magic 🚀 |
