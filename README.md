@@ -1,11 +1,20 @@
-# 📚 EduSearch AI — Your Personal Course Discovery & Study Planner
+# 📚 Playlist Planner — Your Personal Course Discovery & Study Planner
 
 > **Find. Plan. Learn. Achieve.**  
 EduSearch AI is an AI-powered educational search and planning platform. Search any topic, discover curated YouTube playlists, and get a **personalized study plan** that helps you complete your learning journey faster, smarter, and stress-free.  
 
 ---
 
-## 🌟 Why EduSearch AI?
+# 👥 Contributors
+
+| ![Ayush's Avatar](https://avatars.githubusercontent.com/u/00000000?v=4) | ![Kaustubh's Avatar](https://avatars.githubusercontent.com/u/00000000?v=4) |
+|--------------------------------|--------------------------------|
+| **Ayush** — Turns coffee ☕ into brilliant code and wild ideas 💡 | **Kaustubh** — Crafts pixels 🎨 & logic 🧠 into magic 🚀 |
+| *"The brainstorm never ends"* 💭 | *"The code compiles… eventually"* 😄 |
+
+---
+
+## 🌟 Why _____ ?
 Learning online can be overwhelming — thousands of videos, scattered resources, and no clear plan.  
 EduSearch AI changes that by combining **intelligent course search**, **YouTube API integration**, and **AI-driven study planners** to create an **all-in-one learning hub**.
 
