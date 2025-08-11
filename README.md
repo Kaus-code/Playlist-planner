@@ -1,7 +1,7 @@
-# 📚 Playlist Planner — Your Personal Course Discovery & Study Planner
+# 📚 Lectura — Your Personal Course Discovery & Study Planner
 
 > **Find. Plan. Learn. Achieve.**  
-> EduSearch AI is an AI-powered educational search and planning platform. Search any topic, discover curated YouTube playlists, and get a **personalized study plan** that helps you complete your learning journey faster, smarter, and stress-free.
+> Lectura is an AI-powered educational search and planning platform. Search any topic, discover curated YouTube playlists, and get a **personalized study plan** that helps you complete your learning journey faster, smarter, and stress-free.
 
 ---
 
@@ -14,10 +14,10 @@
 
 ---
 
-## 🌟 Why EduSearch AI?
+## 🌟 Why Lectura?
 
 Learning online can be overwhelming — thousands of videos, scattered resources, and no clear plan.  
-EduSearch AI changes that by combining **intelligent course search**, **YouTube API integration**, and **AI-driven study planners** to create an **all-in-one learning hub**.
+Lectura changes that by combining **intelligent course search**, **YouTube API integration**, and **AI-driven study planners** to create an **all-in-one learning hub**.
 
 ---
 
@@ -140,4 +140,4 @@ We welcome contributions!
 ---
 
 ## ❤️ Made for Lifelong Learners
-EduSearch AI isn’t just a tool — it’s your **study buddy**. Whether you’re preparing for an exam, learning a new skill, or exploring a passion, we help you **stay on track, stay motivated, and succeed**.
+Lectura isn’t just a tool — it’s your **study buddy**. Whether you’re preparing for an exam, learning a new skill, or exploring a passion, we help you **stay on track, stay motivated, and succeed**.
